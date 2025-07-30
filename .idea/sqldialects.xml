@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/main/java/br/com/dio/persistence/dao/BoardDAO.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db/changelog/migrations/db.changelog-1.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db/changelog/migrations/db.changelog-2.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db/changelog/migrations/db.changelog-3.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db/changelog/migrations/db.changelog-4.sql" dialect="MySQL" />
+    <file url="PROJECT" dialect="MySQL" />
+  </component>
+</project>
